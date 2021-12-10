@@ -1,0 +1,16 @@
+{
+  "name": "jest-prop-type-throw-error",
+  "version": "1.0.0",
+  "description": "this package will help prop type to thrown the error instead of console.warning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "prop-type"
+  ],
+  "author": "rendyadisaputra",
+  "license": "ISC"
+}
